@@ -1,0 +1,8 @@
+# Project exclude paths
+/module03-question01/target/
+/module03-question02/module03-question02-application-server/target/
+/module03-question02/module03-question02-boot/target/
+/module03-question02/module03-question02-embedded-builder/target/
+/module03-question02/module03-question02-standalone/target/
+/module03-question03/module03-question03-jdbc-template/target/
+/module03-question03/module03-question03-template-design-pattern/target/
